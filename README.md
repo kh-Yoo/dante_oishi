@@ -1,1 +1,8 @@
-# dante_oishi
+![게임_캡처](https://user-images.githubusercontent.com/62977669/94394606-b51a7980-0198-11eb-9753-2a5ef20c0d1d.JPG)
+
+[실행 영상](https://youtu.be/fJN8WU_aPbc)
+
+터치패드를 이용한 캐릭터 이동
+
+- 컴퓨터에서 이용하는 방향키 혹은 w,a,s,d 키가 아닌 스마트폰에서도 
+이용이 가능하도록 터치패드를 이용해서 캐릭터 이동이 가능하게 했습니다.
