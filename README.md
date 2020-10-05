@@ -1,4 +1,5 @@
-![게임_캡처](https://user-images.githubusercontent.com/62977669/94394606-b51a7980-0198-11eb-9753-2a5ef20c0d1d.JPG)![KakaoTalk_20201005_210244275](https://user-images.githubusercontent.com/62977669/95077716-ee318b80-074e-11eb-82ea-70094ed1bb1f.jpg)
+![KakaoTalk_20201005_210244275](https://user-images.githubusercontent.com/62977669/95077716-ee318b80-074e-11eb-82ea-70094ed1bb1f.jpg)
+
 
 
 [실행 영상](https://youtu.be/I4jKNFJMS68)
